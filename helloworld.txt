@@ -1,6 +1,9 @@
 Arnav Das
+<<<<<<< HEAD
 
 Friends
 1. Pranav Kumar
 2. Rahul Mohan
 
+=======
+>>>>>>> parent of 36bea6a (Added 1 friend)
